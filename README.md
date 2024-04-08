@@ -28,6 +28,15 @@ For the classification model
  - Prescision
  - Recall
  - F1 Score
+## Result
+
+#### Performance of different regressiors 
+
+![different regressor ](https://github.com/adewoleaj/Video-Game-Sales-Analysis/blob/main/different%20regressors.png?raw=true)
+
+#### Performance of different classifers 
+
+![different classifers]()
    
 ## Usage
 
