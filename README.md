@@ -36,7 +36,8 @@ For the classification model
 
 #### Performance of different classifers 
 
-![different classifers]()
+
+![different classifers](https://github.com/adewoleaj/Video-Game-Sales-Analysis/blob/main/different%20classifier.png?raw=true)
    
 ## Usage
 
