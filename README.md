@@ -28,6 +28,8 @@ For the classification model
  - Prescision
  - Recall
  - F1 Score
+
+   
 ## Result
 
 #### Performance of different regressiors 
@@ -61,6 +63,8 @@ To reproduce the analysis, ensure you have the following libraries installed:
 ## Comments
 
 Feel free to add comments or suggestions directly within the Jupyter Notebook file. Your feedback is valuable for improving the analysis and enhancing its reproducibility.
+
+--
 
 ## Conclusion
 
