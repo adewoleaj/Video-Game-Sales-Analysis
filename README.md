@@ -70,3 +70,10 @@ Feel free to add comments or suggestions directly within the Jupyter Notebook fi
 
 This analysis provides valuable insights into the global video game market, offering predictions on sales performance and categorizing games based on various factors. By following the provided instructions, you can reproduce the analysis and further explore the dataset. Your contributions and feedback are welcome to enhance the robustness and applicability of this analysis.
 
+## Author
+
+**_Adewole Adetoro Ajala_**
+
+For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com
+
+Feel free to contribute or provide feedback!
